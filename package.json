@@ -1,0 +1,25 @@
+{
+  "name": "condit",
+  "version": "1.0.0",
+  "description": "condit is a package that allows you to write conditional expressions for jsx-like syntax.",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indatawetrust/condit.git"
+  },
+  "keywords": [
+    "conditional"
+  ],
+  "author": "indatawetrust",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/indatawetrust/condit/issues"
+  },
+  "homepage": "https://github.com/indatawetrust/condit#readme",
+  "devDependencies": {
+    "ava": "^1.2.1"
+  }
+}
